@@ -57,14 +57,6 @@ The project uses the following key dependencies:
 
 Contributions to the project are welcome! Create Pull Requests and Issues on GitHub.
 
-## License
-
-[Specify your project's license, e.g., MIT License]
-
----
-
-### Attachments
-
 - Attach the compiled APK file to the README or provide a download link from a cloud storage service.
 
 This README file provides users and developers with a comprehensive understanding of your project and its implementation, offering useful information and context for usage and collaboration.
